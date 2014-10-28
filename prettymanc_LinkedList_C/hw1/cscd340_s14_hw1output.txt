@@ -1,0 +1,216 @@
+colton@debian-virtualbox:~/Dropbox/ewucs/2013_2014/opsys340/hw/hw1$ ./hw1
+Enter the input filename:
+> w.txt
+'w.txt' opened successfully!
+apple:5
+banana:6
+donut:5
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 1
+Enter a word:
+> onion
+'onion' added successfully!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 5
+onion:5
+apple:5
+banana:6
+donut:5
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 2
+Enter a word:
+> donut
+'donut' deletion successful!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 4
+Enter a word:
+> donut
+'donut' not found!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 4
+Enter a word:
+> onion
+'onion' found!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 6
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 5
+apple:5
+banana:6
+onion:5
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 7
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 5
+apple:5
+onion:5
+banana:6
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 3
+Linked List cleared!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 4
+Enter a word:
+> onion
+'onion' not found!
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 5
+Empty List
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 6
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 7
+
+1) Add a Word
+2) Delete a Word
+3) Clear the List
+4) Find a Word
+5) Print the List
+6) Sort the List by word (ascending order)
+7) Sort the List by the lengths of the word primary, alphabetical secondary
+8) Quit
+
+Enter a choice:
+> 8
+colton@debian-virtualbox:~/Dropbox/ewucs/2013_2014/opsys340/hw/hw1$ 
+
